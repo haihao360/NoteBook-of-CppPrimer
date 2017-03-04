@@ -21,7 +21,7 @@
 3. Understanding complicated array declaration from inside out
 4. No copy or assignment.
 5. size_t--cstddef---ptrdiff_t
-6. Array and pointer---a. *p=nums(i.e &nums[0])---decltype(nums) is an array. b. pointers are iterators(begin and end defined in iterator header). c. Unlike subscripts for vector and string, the index of the built-in subscript operator is not an unsigned type.
+6. Array and pointer--- - *p=nums(i.e &nums[0])---decltype(nums) is an array. - pointers are iterators(begin and end defined in iterator header). - Unlike subscripts for vector and string, the index of the built-in subscript operator is not an unsigned type.
 7. a. c-style string--strlen,strcmp,strcpy,strcat. b. c_str---using array to initialize vector.
 
 ## 3.6 Multidimension array.
