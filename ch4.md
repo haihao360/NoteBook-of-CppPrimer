@@ -1,5 +1,5 @@
 ## 4.1 Fundamentals.
-1. 
+ 
 * An expression is composed of one or more operands and yields a result when it is
 evaluated. 
 * unary binary tenary operators. 
@@ -36,9 +36,9 @@ evaluated.
 ## 4.11 Type Conversions
 1. Implicit conversion
 2. Explicit conversion
-* static_cast--- larger arithmetic type is assigned to a smaller type
-* const_cast---change constness
-* interpre_cast---performs a low-level reinterpretation of the bit pattern of its operands
+ * static_cast--- larger arithmetic type is assigned to a smaller type
+ * const_cast---change constness
+ * interpre_cast---performs a low-level reinterpretation of the bit pattern of its operands
 
 
 
